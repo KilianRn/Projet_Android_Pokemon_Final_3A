@@ -4,6 +4,9 @@ Projet de programmation mobile de 3ème année à l'ESIEA, encadré par monsieur
 
 Création d'une application mobile utilisant l'API REST "PokeApi" disponible via ce lien : https://pokeapi.co/
 
+Lorsqu'on lance l'application, une liste de Pokémon et les images correspondantes sont chargées depuis l'API.
+Lorsqu'on clique sur un Pokémon, son nom apparait sur une autre page.
+
 ## Captures d'écran de l'application : 
 
 ![Screen_first_fragment](https://user-images.githubusercontent.com/66916233/120119859-43b51f80-c19a-11eb-95fa-c28efa8634dc.jpg)
